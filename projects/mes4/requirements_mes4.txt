@@ -1,0 +1,26 @@
+# ============ MES 4: AGENTES AUTÓNOMOS ============
+
+# ============ CORE ============
+langchain==0.1.13
+langchain-community==0.0.31
+langchain-openai==0.0.7
+
+# ============ LOCAL LLM ============
+ollama==0.1.2
+
+# ============ TOOLS & EXECUTION ============
+requests==2.31.0
+beautifulsoup4==4.12.2
+duckduckgo-search==3.9.10
+
+# ============ UTILITIES ============
+python-dotenv==1.0.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# ============ LOGGING ============
+python-json-logger==2.0.7
+
+# ============ TESTING ============
+pytest==7.4.3
+pytest-asyncio==0.21.1
